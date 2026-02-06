@@ -46,13 +46,13 @@ password-strength-checker/
 - Clone using Git:
 ```bash
 git clone https://github.com/your-username/password-strength-checker.git
-2️⃣ Navigate to the Project Folder
+## 2️⃣ Navigate to the Project Folder
 cd password-strength-checker
 
-3️⃣ Install Dependencies
+## 3️⃣ Install Dependencies
 pip install flask
 
-4️⃣ Run the Application
+## 4️⃣ Run the Application
 python app.py
 
 
@@ -60,7 +60,7 @@ You should see:
 
 Running on http://127.0.0.1:5000/
 
-5️⃣ Open in Browser
+## 5️⃣ Open in Browser
 
 Open your browser and go to:
 
